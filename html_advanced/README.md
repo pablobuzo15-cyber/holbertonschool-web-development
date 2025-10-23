@@ -1,13 +1,11 @@
 # SmileSchool – HTML Advanced Project
 
-This project is part of a Holberton Web Development Course.  
-The goal is to recreate a webpage structure from a Figma design, focusing exclusively on HTML semantics (For now).
+The goal of this project is to recreate a webpage structure from a Figma design, focusing exclusively on HTML semantics (For now).
 
 ## Objectives
 
 - Reproduce the **SmileSchool** homepage layout as shown in a given Figma file.
 - Write **pure HTML**, no external frameworks or libraries.
-- Pass validation through the **W3C HTML Validator**.
 
 ## Structure
 
@@ -43,14 +41,14 @@ All image files are stored inside the `images/` folder.
 
 ## Notes
 
-- As it is mentioned before, There is **no CSS or styling** applied yet in this Project.
+- There is **no CSS or styling** applied yet in this Project.
 - **Some references (links)** are empty (`#` as href) because the Figma example shows a single-page design, no additional pages were created or linked.
 - The file names and image references follow the Figma assets used in the design.
 
 ## Tools Used
 
 - **VS Code** for writing and testing HTML locally.
-- **W3C Validator** for syntax and compliance checks.
 - **Figma** for inspecting layout structure and hierarchy.
 
-All code and structure replicate the original Figma design as closely as possible.
+All code and structure is closely replicating the original Figma design.
+
